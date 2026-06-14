@@ -1,0 +1,8 @@
+   numpy
+   matplotlib
+   seaborn
+   plotly
+   scikit-learn
+   statsmodels
+   openpyxl
+   pandas
